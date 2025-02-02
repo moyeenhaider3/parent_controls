@@ -1,1 +1,1 @@
-# parent_controll
+# parent_controls
